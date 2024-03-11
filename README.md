@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Peter O. I'm a SAP TM expert who wants to become a data scientist.
+- 👋 Hi, I’m Peter O. I'm a SAP TM expert who decided to turn into a data scientist.
 - 👀 I’m interested in Machine Learning and Data Science.
 - 🌱 Currently learning Python (Abap-debugging at work).
 - 💞️ I’m looking to collaborate on any projects in ML and DS.
